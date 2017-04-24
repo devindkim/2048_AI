@@ -1,5 +1,5 @@
 # 2048 AI 
-![screenshot]()
+![screenshot](2048demo.png)
 This is an AI written in Python that uses genetic algorithms to learn how to beat the game 2048. 
 The game can be found here: https://gabrielecirulli.github.io/2048/
 
